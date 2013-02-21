@@ -1,9 +1,10 @@
 module Tire
-  VERSION   = "0.5.4"
+  VERSION   = "0.5.5"
 
   CHANGELOG =<<-END
     IMPORTANT CHANGES LATELY:
 
+    * Exportable Models to CSV files
     * Added the support for the Count API
     * Escape single quotes in `to_curl` serialization
     * Added JRuby compatibility
